@@ -41,6 +41,7 @@ nav ul{
     margin-bottom: 1rem;
     padding: 0;
     display: flex;
+    flex-wrap: wrap;
     position: relative;
 }
 
